@@ -1,0 +1,30 @@
+.avakaaititle{
+    color: brown;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: 30px;
+    padding: 0% 3% 0% 0%;
+}
+.navbartop{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(230, 204, 167) 0%, rgb(211, 180, 87) 100%);
+
+}
+.nav-item{
+    padding: 0 25px 0 0;
+}
+.loginbutton{
+    background-color: orange;color:white; border:none;margin:0 12px
+}
+
+.loginbutton:hover{
+  background-color: rgb(239, 224, 157);
+  color: black;
+}
+.signupbutton{
+   background-color:white; color:black; border:none
+}
+.signupbutton:hover{
+    background-color: rgb(51, 49, 49);
+    color: white;
+}
